@@ -62,3 +62,12 @@ end
 
 # Start the Thor CLI with the provided arguments
 CrontabBackup.start(ARGV || ENV['CRONTAB_BACKUP_HOSTS']&.split(','))
+
+
+#      _    _   _                     _          
+#   __| |  (_) | |__   ___ _ __ _   _| |__   ___ 
+#  / _` |  | | | '_ \ / _ \ '__| | | | '_ \ / _ \
+# | (_| |_ | |_| |_) |  __/ |  | |_| | |_) |  __/
+#  \__,_(_)/ (_)_.__/ \___|_|   \__,_|_.__/ \___|
+#        |__/                                    
+
